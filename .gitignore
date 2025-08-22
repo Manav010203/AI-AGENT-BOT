@@ -3,3 +3,6 @@ pyproject.toml
 .venv/
 .python-version
 uv.lock
+# Virtual environments
+.venv
+__pycache__
